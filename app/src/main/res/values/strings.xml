@@ -1,0 +1,393 @@
+<resources>
+    <string name="app_name">NutriGoal</string>
+
+    <string name="login_success">Login is successful</string>
+    <string name="register_success">Register successful</string>
+    <string name="logout_success">Logout is successful</string>
+    <string name="add_food_recommendation_success">Add food recommendation success</string>
+
+    <string name="error_favorite_food">You must choose your favorite food</string>
+    <string name="error_select_recommended_food">You must select %s foods</string>
+    <string name="error_complete_form">You must fill in all the inputs</string>
+    <string name="error_add_food_recommendation">Add food recommendation failed. Please try again.</string>
+    <string name="error_add_per_day_item">Add food recommendation failed. Please try again.</string>
+    <string name="error_get_notification">Get notification failed. Please try again.</string>
+    <string name="error_get_user">Get user failed. Please try again.</string>
+    <string name="error_login">Login failed. Please try again.</string>
+    <string name="error_register">Register failed. Please try again.</string>
+    <string name="error_account_already_exist">Account already registered</string>
+    <string name="error_logout">Logout failed. Please try again.</string>
+    <string name="error_cancel_login_provider">Cancelled by User</string>
+    <string name="error_email_already_registered">Register failed. Email already registered.</string>
+    <string name="error_wrong_input">Your email or password is wrong. Try Again!</string>
+    <string name="error_something_wrong">Something wrong. Try Again!</string>
+    <string name="error_wrong_email_format">Invalid email format</string>
+    <string name="error_min_length_field">%s cannot be less than %d characters</string>
+    <string name="error_empty_field">%s must not be empty</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="error_maximum_selected_favorite_food">Maximum selected 4</string>
+    <string name="error_expired_session">Your session expired, please login again!</string>
+
+    <string name="dashboard">Dashboard</string>
+    <string name="plan_diet">Plan Diet</string>
+    <string name="notifications">Notifications</string>
+    <string name="settings">Settings</string>
+
+    <string name="login_title">Welcome Back!</string>
+    <string name="login_desc">Login to access your personalized experience.</string>
+
+    <string name="register_title">Let\'s get you started!</string>
+    <string name="register_desc">Sign up to start your personalized journey.</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+
+    <string name="login">Login</string>
+    <string name="already_have_an_account">Already have an account? </string>
+    <string name="don_t_have_an_account_yet">Don\'t have an account yet? </string>
+    <string name="register">Register</string>
+
+    <string name="no_data">No Data</string>
+
+    <string name="tv_home_greetings">Hello Universe!</string>
+    <string name="tv_home_desc">Your stories, an inspiration to others.</string>
+
+    <string name="loading">Loading</string>
+    <string name="log_out_desc">Logout of account</string>
+    <string name="logout">Logout</string>
+    <string name="select_language">Select Language</string>
+    <string name="profile">Profile </string>
+    <string name="back_btn_profile_desc">Return from profile page</string>
+    <string name="description">Description</string>
+
+    <string name="app_logo_desc">display the app logo</string>
+    <string name="meal_schedule_count">%s times a day</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="continue_with_facebook">Continue with Facebook</string>
+    <string name="or">OR</string>
+    <string name="_1_of_3_steps">1 of 3 steps</string>
+    <string name="survey1_decoration_desc">display survey1 decoration</string>
+    <string name="step_1">Step 1</string>
+    <string name="survey1_title">Discover Your Healthy Eating Habits!</string>
+    <string name="survey1_desc">Take a moment to share your dietary information. Together, we’ll create a personalized plan to support your health goals!</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="_2_of_3_steps">2 of 3 steps</string>
+    <string name="step_2">Step 2</string>
+    <string name="survey2_title">Personal Details</string>
+    <string name="survey2_desc">Provide your personal details to help us tailor the experience just for you. Your information brings us one step closer to achieving your goals together!</string>
+    <string name="_3_of_3_steps">3 of 3 steps</string>
+    <string name="step_3">Step 3</string>
+    <string name="survey3_title">Personalized Diet</string>
+    <string name="survey3_desc">*The information you provide will personalize your diet plan for the next day.</string>
+    <string name="body_weight">Body weight</string>
+    <string name="height">Height</string>
+    <string name="age">Age</string>
+    <string name="gender">Gender</string>
+    <string name="select_gender">Select Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="vegan">Vegan</string>
+    <string name="keto">Keto</string>
+    <string name="select_diet_category">Select diet category</string>
+    <string name="is_there_a_history_of_mag_disease">Is there a history of mag disease?</string>
+    <string name="what_is_your_favorite_processed_food">What is your favorite processed food?</string>
+    <string name="select_activity_level">Select activity level</string>
+    <string name="search_your_favorite_food">Search your favorite food..</string>
+    <string name="weight_percentage_format">%.1f%%</string>
+    <string name="bmi_value_format">%.1f</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="today">Today</string>
+    <string name="stop">Stop</string>
+    <string name="time_to_eat_notif_title">Don’t Skip Your Meal, It’s Time to Eat!</string>
+    <string name="time_to_eat_notif_desc">Your body deserves the best! Take a moment to enjoy a nutritious meal and keep your energy levels high throughout the day.</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="oldest">Oldest</string>
+    <string name="notification">Notification</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="authentication">Authentication</string>
+    <string name="check_icon_desc">display daily check reminder</string>
+    <string name="daily_check_in_title">Daily Diet Check-In Reminder!</string>
+    <string name="check_in_reminder_title">Time to Check-In and Set Your Meal Times!</string>
+    <string name="check_in_reminder_message">Don\'t forget to check-in and set your meal times to stay on track for a healthy day!</string>
+    <string name="no_eat_reminder_title">No Eating or Drinking</string>
+    <string name="open_app">Open App</string>
+    <string name="account">Account</string>
+    <string name="content_and_display">Content &amp; Display</string>
+    <string name="go_to_the_profile_page">Go to the profile page</string>
+    <string name="iv_back_from_profile_desc">Back from profile page</string>
+    <string name="iv_photo_profile_desc">Display photo profile</string>
+    <string name="confirm_logout_message">Are you sure you want to logout?</string>
+    <string name="last_days">Last %s days</string>
+
+    <string-array name="activity_levels">
+        <item>1. Sedentary (little to no exercise)</item>
+        <item>2. Lightly active (light exercise 1–3 days/week)</item>
+        <item>3. Moderately active (moderate exercise 3–5 days/week)</item>
+        <item>4. Very active (hard exercise 6–7 days/week)</item>
+        <item>5. Super active (very hard exercise or physical job)</item>
+    </string-array>
+
+    <string-array name="breakfast_times">
+        <item>03:00 AM</item>
+        <item>04:00 AM</item>
+        <item>05:00 AM</item>
+        <item>06:00 AM</item>
+        <item>07:00 AM</item>
+        <item>08:00 AM</item>
+        <item>09:00 AM</item>
+        <item>10:00 AM</item>
+    </string-array>
+
+    <string-array name="launch_times">
+        <item>11:00 AM</item>
+        <item>12:00 PM</item>
+        <item>01:00 PM</item>
+        <item>02:00 PM</item>
+        <item>03:00 PM</item>
+        <item>04:00 PM</item>
+        <item>05:00 PM</item>
+        <item>06:00 PM</item>
+    </string-array>
+
+    <string-array name="dinner_times">
+        <item>07:00 PM</item>
+        <item>08:00 PM</item>
+        <item>09:00 PM</item>
+        <item>10:00 PM</item>
+        <item>11:00 PM</item>
+    </string-array>
+
+    <!-- Fruits -->
+    <string name="Apple">Apple</string>
+    <string name="Banana">Banana</string>
+    <string name="Orange">Orange</string>
+    <string name="Mango">Mango</string>
+    <string name="Strawberry">Strawberry</string>
+    <string name="Pineapple">Pineapple</string>
+    <string name="Watermelon">Watermelon</string>
+    <string name="Papaya">Papaya</string>
+    <string name="Grape">Grape</string>
+    <string name="Blueberry">Blueberry</string>
+    <string name="Blackberry">Blackberry</string>
+    <string name="Raspberry">Raspberry</string>
+    <string name="Cherry">Cherry</string>
+    <string name="Kiwi">Kiwi</string>
+    <string name="Lemon">Lemon</string>
+    <string name="Lime">Lime</string>
+    <string name="Peach">Peach</string>
+    <string name="Pear">Pear</string>
+    <string name="Plum">Plum</string>
+    <string name="Pomegranate">Pomegranate</string>
+    <string name="Avocado">Avocado</string>
+    <string name="Coconut">Coconut</string>
+    <string name="Guava">Guava</string>
+    <string name="Fig">Fig</string>
+    <string name="Dates">Dates</string>
+    <string name="Lychee">Lychee</string>
+    <string name="Dragonfruit">Dragonfruit</string>
+    <string name="Persimmon">Persimmon</string>
+    <string name="Mulberry">Mulberry</string>
+    <string name="Cranberry">Cranberry</string>
+    <string name="Cantaloupe">Cantaloupe</string>
+    <string name="Honeydew">Honeydew</string>
+    <string name="Starfruit">Starfruit</string>
+    <string name="Durian">Durian</string>
+    <string name="Jackfruit">Jackfruit</string>
+    <string name="Passionfruit">Passionfruit</string>
+    <string name="Rambutan">Rambutan</string>
+    <string name="Longan">Longan</string>
+    <string name="Soursop">Soursop</string>
+    <string name="Gooseberry">Gooseberry</string>
+    <string name="Mangosteen">Mangosteen</string>
+    <string name="SugarApple">Sugar Apple</string>
+    <string name="Salak">Salak</string>
+    <string name="Elderberry">Elderberry</string>
+    <string name="Quince">Quince</string>
+    <string name="Tamarind">Tamarind</string>
+    <string name="Sapodilla">Sapodilla</string>
+    <string name="Bael">Bael</string>
+    <string name="Breadfruit">Breadfruit</string>
+    <string name="Ackee">Ackee</string>
+    <string name="Jujube">Jujube</string>
+    <string name="Medlar">Medlar</string>
+    <string name="Currant">Currant</string>
+    <string name="Acerola">Acerola</string>
+    <string name="Loquat">Loquat</string>
+    <string name="Boysenberry">Boysenberry</string>
+    <string name="UgliFruit">Ugli Fruit</string>
+
+    <!-- Vegetables -->
+    <string name="Carrot">Carrot</string>
+    <string name="Potato">Potato</string>
+    <string name="Tomato">Tomato</string>
+    <string name="Onion">Onion</string>
+    <string name="Garlic">Garlic</string>
+    <string name="Spinach">Spinach</string>
+    <string name="Lettuce">Lettuce</string>
+    <string name="Kale">Kale</string>
+    <string name="Broccoli">Broccoli</string>
+    <string name="Cauliflower">Cauliflower</string>
+    <string name="Cucumber">Cucumber</string>
+    <string name="Zucchini">Zucchini</string>
+    <string name="Eggplant">Eggplant</string>
+    <string name="BellPepper">Bell Pepper</string>
+    <string name="ChiliPepper">Chili Pepper</string>
+    <string name="Beet">Beet</string>
+    <string name="Radish">Radish</string>
+    <string name="Turnip">Turnip</string>
+    <string name="SweetPotato">Sweet Potato</string>
+    <string name="Pumpkin">Pumpkin</string>
+    <string name="Squash">Squash</string>
+    <string name="Celery">Celery</string>
+    <string name="Asparagus">Asparagus</string>
+    <string name="GreenBean">Green Bean</string>
+    <string name="Pea">Pea</string>
+    <string name="Okra">Okra</string>
+    <string name="Cabbage">Cabbage</string>
+    <string name="BokChoy">Bok Choy</string>
+    <string name="BrusselsSprouts">Brussels Sprouts</string>
+    <string name="Artichoke">Artichoke</string>
+    <string name="Leek">Leek</string>
+    <string name="Fennel">Fennel</string>
+    <string name="Shallot">Shallot</string>
+    <string name="Ginger">Ginger</string>
+    <string name="Turmeric">Turmeric</string>
+    <string name="CollardGreens">Collard Greens</string>
+    <string name="MustardGreens">Mustard Greens</string>
+    <string name="SwissChard">Swiss Chard</string>
+    <string name="Watercress">Watercress</string>
+    <string name="Arugula">Arugula</string>
+    <string name="Taro">Taro</string>
+    <string name="Yam">Yam</string>
+    <string name="BambooShoot">Bamboo Shoot</string>
+    <string name="Corn">Corn</string>
+    <string name="Parsley">Parsley</string>
+    <string name="Cilantro">Cilantro</string>
+    <string name="Basil">Basil</string>
+    <string name="Thyme">Thyme</string>
+    <string name="Rosemary">Rosemary</string>
+    <string name="Oregano">Oregano</string>
+    <string name="Mint">Mint</string>
+    <string name="Chives">Chives</string>
+    <string name="Dill">Dill</string>
+    <string name="Sage">Sage</string>
+    <string name="Tarragon">Tarragon</string>
+    <string name="Marjoram">Marjoram</string>
+    <string name="CurryLeaf">Curry Leaf</string>
+    <string name="BayLeaf">Bay Leaf</string>
+
+    <!-- Livestock -->
+    <string name="Chicken">Chicken</string>
+    <string name="Duck">Duck</string>
+    <string name="Turkey">Turkey</string>
+    <string name="Goose">Goose</string>
+    <string name="Quail">Quail</string>
+    <string name="Rabbit">Rabbit</string>
+    <string name="Cow">Cow</string>
+    <string name="Pig">Pig</string>
+    <string name="Sheep">Sheep</string>
+    <string name="Goat">Goat</string>
+    <string name="Buffalo">Buffalo</string>
+    <string name="Camel">Camel</string>
+    <string name="Yak">Yak</string>
+    <string name="Horse">Horse</string>
+    <string name="Deer">Deer</string>
+    <string name="Elk">Elk</string>
+    <string name="Moose">Moose</string>
+    <string name="Reindeer">Reindeer</string>
+    <string name="Kangaroo">Kangaroo</string>
+    <string name="Ostrich">Ostrich</string>
+    <string name="Emu">Emu</string>
+    <string name="Pheasant">Pheasant</string>
+    <string name="Partridge">Partridge</string>
+    <string name="Dove">Dove</string>
+    <string name="Pigeon">Pigeon</string>
+    <string name="Crab">Crab</string>
+    <string name="Lobster">Lobster</string>
+    <string name="Shrimp">Shrimp</string>
+    <string name="Fish">Fish</string>
+    <string name="Tuna">Tuna</string>
+    <string name="Salmon">Salmon</string>
+    <string name="Cod">Cod</string>
+    <string name="Tilapia">Tilapia</string>
+    <string name="Catfish">Catfish</string>
+    <string name="Sardine">Sardine</string>
+    <string name="Anchovy">Anchovy</string>
+    <string name="Mackerel">Mackerel</string>
+    <string name="Trout">Trout</string>
+    <string name="Bass">Bass</string>
+    <string name="Eel">Eel</string>
+    <string name="Squid">Squid</string>
+    <string name="Octopus">Octopus</string>
+    <string name="Clam">Clam</string>
+    <string name="Oyster">Oyster</string>
+    <string name="Mussel">Mussel</string>
+    <string name="Scallop">Scallop</string>
+    <string name="SeaUrchin">Sea Urchin</string>
+    <string name="Cuttlefish">Cuttlefish</string>
+    <string name="Hare">Hare</string>
+    <string name="GuineaPig">Guinea Pig</string>
+    <string name="Llama">Llama</string>
+    <string name="Alpaca">Alpaca</string>
+    <string name="Bison">Bison</string>
+    <string name="Crocodile">Crocodile</string>
+    <string name="Alligator">Alligator</string>
+    <string name="WildBoar">Wild Boar</string>
+    <string name="Grouse">Grouse</string>
+    <string name="Peafowl">Peafowl</string>
+    <string name="Capon">Capon</string>
+    <string name="SilkieChicken">Silkie Chicken</string>
+    <string name="Snake">Snake</string>
+    <string name="Turtle">Turtle</string>
+    <string name="Pangolin">Pangolin</string>
+    <string name="Armadillo">Armadillo</string>
+
+    <string name="dashboard_greetings_desc">Keep track of your diet!</string>
+    <string name="dashboard_greetings">Hi %s</string>
+    <string name="body_weight_progress_title">Body Weight Progress</string>
+    <string name="current_weight">Current Weight</string>
+    <string name="weight_gain">Weight Gain</string>
+    <string name="daily_progress_title">Daily Nutrient Consumption</string>
+    <string name="calories_title">Calories</string>
+    <string name="protein_title">Protein</string>
+    <string name="fat_title">Fat</string>
+    <string name="carbohydrates_title">Carbohydrates</string>
+    <string name="select_your_activity_level">Select your activity level</string>
+    <string name="nutrients_title">Nutrients Progress</string>
+    <string name="daily_check_in">Daily Check-in</string>
+    <string name="breakfast_time">Breakfast time</string>
+    <string name="select_time">Select Time</string>
+    <string name="lunch_time">Lunch time</string>
+    <string name="dinner_time">Dinner time</string>
+    <string name="done">Done</string>
+    <string name="no_activity">No Activity</string>
+    <string name="iv_header_image_desc">Display header image</string>
+    <string name="calorie_needs">Calorie Needs</string>
+    <string name="food_recommendation">Food Recommendation</string>
+    <string name="last_7_days">Last 7 Days</string>
+    <string name="current_bmi">Current BMI</string>
+    <string name="carbohydrates">Carbohydrates:</string>
+    <string name="protein">Protein:</string>
+    <string name="fat">Fat:</string>
+    <string name="calories">Calories:</string>
+    <string name="select">Select</string>
+    <string name="selected">Selected</string>
+    <string name="only_choose">Only choose %s</string>
+    <string name="kcal">kcal</string>
+    <string name="save">Save</string>
+    <string name="add_food_recommendation_title">Add Food Recommendation for The Next Day</string>
+    <string name="add_food_recommendation_desc">Your input will be used to generate a personalized food recommendation for the day after the selected date.</string>
+    <string name="meal_schedule">Meal Schedule</string>
+    <string name="clock_icon_desc">Display clock icon</string>
+    <string name="your_age">Your age</string>
+    <string name="daily_meals_have_not_been_selected">Daily meals have not been selected</string>
+    <string name="yout_body_weight">Yout Body Weight</string>
+    <string name="your_height">Your Height</string>
+    <string name="daily_check_in_desc">Please update your weight and height for today to keep track of your health progress.</string>
+
+</resources>
